@@ -3,7 +3,7 @@
 ## Mensaje de bienvenida
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis asperiores laboriosam, non voluptate aut voluptas dolores officiis qui error, accusamus fugiat maxime nesciunt tempora repellat eligendi repudiandae deserunt. Odit, voluptatem.
 
-  [![Curso de Front End](http://www.photolibrarysoftware.com/wp-content/uploads/2015/11/html5-defeats-adobe-flash.jpg)]
+  ![Curso de Front End](http://www.photolibrarysoftware.com/wp-content/uploads/2015/11/html5-defeats-adobe-flash.jpg)
 
 ## Contenido
 
