@@ -56,9 +56,9 @@ http://www.evolutionoftheweb.com/
 https://www.youtube.com/watch?v=cQVuJte-1dQ
 
 ## Front-end
-*El front-end* es todo lo relacionado con lo que el usuario ve, incluyendo el diseño y algunos lenguajes como HTML y CSS.
+*El front-end* es todo lo relacionado con lo que el usuario ve, `incluyendo el diseño y algunos lenguajes como HTML y CSS`.
 
-`Un diseñador o desarrollador front-end` puede crear sitios sin ningún tipo de desarrollo back-end. Es decir, los sitios que se pueden crear, son estáticos. Un sitio estático puede ser un sitio para anunciar servicios, como un restaurante, sin necesidad de almacenar algun tipo de información en una base de datos. Estos sitios serían siempre los mismos a menos que sea necesario hacer un rediseño.
+Un diseñador o desarrollador front-end puede crear sitios sin ningún tipo de desarrollo back-end. Es decir, los sitios que se pueden crear, son estáticos. Un sitio estático puede ser un sitio para anunciar servicios, como un restaurante, sin necesidad de almacenar algun tipo de información en una base de datos. Estos sitios serían siempre los mismos a menos que sea necesario hacer un rediseño.
 
 ## Back End
-*El back-end* es básicamente como funciona, se actualiza o cambia un sitio. Esto se refiere a todo lo que el usuario no puede ver en el navegador, por ejemplo: `bases de datos` y `servidores`.
+*El back-end* es básicamente como funciona, como se actualiza o como cambia un sitio. O sea, todo lo que el usuario no puede ver en el navegador, por ejemplo: `bases de datos` y `servidores`.
