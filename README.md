@@ -9,7 +9,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis asperiores labor
 
 ### Módulo 0: Introducción
   1. [Internet](#internet)
-  2. [Pagina Web](#pagina-web)
+  2. [Front End](#front-end)
+  3. [Back End](#back-end)
 
 ### Módulo 1: Configuración del entorno de trabajo
   1. [Sublime Text 3](#sublime-text-3)
@@ -40,8 +41,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis asperiores labor
 
 ## Internet
 
-### Historia del Internet
-
 Internet es un conjunto descentralizado de redes.
 
 Sus orígenes se remontan a 1969, cuando se estableció la primera conexión de computadoras, conocida como ARPANET, entre tres universidades en California (Estados Unidos).
@@ -56,11 +55,9 @@ http://www.evolutionoftheweb.com/
 
 https://www.youtube.com/watch?v=cQVuJte-1dQ
 
+## Front End
+El 'Front End' es todo lo relacionado con lo que el usuario ve, incluyendo el diseño y algunos lenguajes como HTML y CSS.
 
-## Pagina Web
+Un *diseñador o desarrollador Front End* puede crear sitios sin ningun tipo de desarrollo Back End. Es decir, los sitios que se pueden crear sin la ayuda de un desarrollador web o del Back End, son estáticos. Un sitio estático puede ser un sitio para anunciar servicios, como un restaurante, sin necesidad de almacenar algun tipo de información en una base de datos. Estos sitios serían siempre los mismos a menos que sea necesario hacer un rediseño.
 
-### Front End vs Back End
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure laboriosam repudiandae, dolore. Sint totam, vitae libero recusandae culpa debitis praesentium voluptatibus fugit beatae illo quas magnam consectetur, quisquam, tempora provident quasi minus aliquid delectus perferendis minima quis corporis officia perspiciatis! Quasi mollitia incidunt exercitationem iure maxime, temporibus cum sequi fugit optio sed. Assumenda sunt quis at corporis, soluta quisquam illum veniam vel inventore itaque quos deserunt dignissimos quibusdam, sed asperiores harum porro saepe possimus. Alias facilis exercitationem numquam modi libero enim, accusamus blanditiis laudantium natus iste animi nulla quae repellendus architecto iusto doloribus excepturi consequuntur, hic error aperiam sed omnis!
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga ratione ea, perferendis dolore in eius modi assumenda delectus repellat consequuntur. Neque porro, modi, doloremque cum qui ut autem, quidem veritatis ratione nesciunt repellat et voluptatibus consequuntur atque natus esse vel impedit excepturi molestias. Repellat quaerat a impedit necessitatibus distinctio, repudiandae, temporibus libero architecto doloribus dolorem ab perferendis aliquam voluptates possimus eum. Voluptatem laborum placeat obcaecati repellendus corrupti, reiciendis ut sint, maiores explicabo officia repudiandae facilis suscipit et modi quas quo eaque ipsum laudantium voluptatibus sed tempora deserunt magni. Ducimus commodi, error excepturi voluptas quo corrupti molestias non odio voluptatibus dolores corporis? Asperiores neque quis, minus, iure sunt sequi. Sapiente perspiciatis reprehenderit, at a sunt nisi harum labore odit inventore dolorum quibusdam alias voluptates ab, voluptas voluptatibus repellendus aperiam atque accusamus veritatis sequi, nihil eum minus! Nihil, deserunt porro accusamus aut facere tempora, ad fuga voluptas atque nam nostrum magnam saepe!
+## Back End
